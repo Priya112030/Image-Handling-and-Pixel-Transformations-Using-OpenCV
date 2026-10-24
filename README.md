@@ -199,7 +199,7 @@ flipped_vertically_rgb = cv2.cvtColor(flipped_vertically, cv2.COLOR_BGR2RGB)
 plt.imshow(flipped_vertically_rgb)
 plt.title("Flipped Vertically")
 plt.axis("off")
-
+```
 
 ## Output:
 <img width="266" height="407" alt="image" src="https://github.com/user-attachments/assets/f2bfb2eb-97eb-4447-8992-57c595dbcf9c" />
