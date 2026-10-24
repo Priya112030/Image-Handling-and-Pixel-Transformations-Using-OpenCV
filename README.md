@@ -203,19 +203,33 @@ plt.axis("off")
 
 ## Output:
 <img width="266" height="407" alt="image" src="https://github.com/user-attachments/assets/f2bfb2eb-97eb-4447-8992-57c595dbcf9c" />
+
 <img width="242" height="426" alt="image" src="https://github.com/user-attachments/assets/ce458824-1c2a-4f94-9c67-14d78e76b2c8" />
+
 <img width="240" height="427" alt="image" src="https://github.com/user-attachments/assets/0d867ed3-6306-454f-800a-c41a7e73add9" />
+
 <img width="256" height="417" alt="image" src="https://github.com/user-attachments/assets/6f137f84-20f4-4c4b-91fe-bf6cc7b723d9" />
+
 <img width="240" height="422" alt="image" src="https://github.com/user-attachments/assets/4c84fb41-ef24-483c-803b-3cb5efd2fe6f" />
+
 <img width="252" height="448" alt="image" src="https://github.com/user-attachments/assets/2a09eb91-3bb2-4b1d-99ad-c577d58e58cf" />
+
 <img width="256" height="445" alt="image" src="https://github.com/user-attachments/assets/250b8b42-fd1a-4852-890d-fa8d02172c35" />
+
 <img width="242" height="415" alt="image" src="https://github.com/user-attachments/assets/c1ccb938-13a9-4092-baed-3955c658b516" />
+
 <img width="236" height="438" alt="image" src="https://github.com/user-attachments/assets/b2cc2049-c2d5-4807-a104-b1c7c4812416" />
+
 <img width="251" height="450" alt="image" src="https://github.com/user-attachments/assets/b2e1e0c5-eac0-45bf-82fc-23c07f645dcf" />
+
 <img width="297" height="413" alt="image" src="https://github.com/user-attachments/assets/3701dcb2-592e-40f1-9dca-0b838b73432c" />
+
 <img width="490" height="406" alt="image" src="https://github.com/user-attachments/assets/5b102639-d294-4355-bd4c-333acc4d0e76" />
+
 <img width="402" height="422" alt="image" src="https://github.com/user-attachments/assets/300c25f0-a4e2-4430-9a52-cb2d5a96524c" />
+
 <img width="236" height="421" alt="image" src="https://github.com/user-attachments/assets/b7c872ae-bff8-42e1-b473-f3f3179dce14" />
+
 <img width="246" height="452" alt="image" src="https://github.com/user-attachments/assets/d18da92b-e5df-425d-9d5a-41487a080658" />
 
 
